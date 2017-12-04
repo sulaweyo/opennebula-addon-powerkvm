@@ -38,7 +38,7 @@ You wil need to add the following to `/etc/one/oned.conf`: [oned.conf for PowerK
 
 ## Usage
 
-The usage guide can be found here: [PowerKVM Driver](docs/xeng.rst)
+This driver can be used in the same way as you use the standard kvm driver.
 
 ## Configuration
 
